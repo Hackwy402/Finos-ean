@@ -11,7 +11,7 @@ nube: ver el gasto, asignarlo, presupuestarlo, optimizarlo y gobernarlo.
 | # | Fecha | Carpeta | Sesión | Estado |
 |---|---|---|---|---|
 | 01 | MI 26 ago | [`01-fundamentos-finops/`](01-fundamentos-finops/) | Fundamentos de FinOps + visibilidad de costos | ✅ Disponible |
-| 02 | V 28 ago | `02-etiquetado-asignacion/` | Etiquetado, organización y asignación de costos | ⏳ |
+| 02 | V 28 ago | [`02-etiquetado-asignacion/`](02-etiquetado-asignacion/) | Etiquetado, organización y asignación de costos | ✅ Disponible |
 | 03 | MI 2 sep | `03-presupuestos-alertas/` | Presupuestos, alertas, anomalías y forecasting | ⏳ |
 | 04 | V 4 sep | `04-optimizacion/` | Optimización: rightsizing, waste, Advisor y compromisos | ⏳ |
 | 05 | MI 9 sep | `05-gobierno-cultura/` | Gobierno con Azure Policy, cultura FinOps y KPIs | ⏳ |
