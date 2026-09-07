@@ -14,7 +14,7 @@ nube: ver el gasto, asignarlo, presupuestarlo, optimizarlo y gobernarlo.
 | 02 | V 28 ago | [`02-etiquetado-asignacion/`](02-etiquetado-asignacion/) | Etiquetado, organización y asignación de costos | ✅ Disponible |
 | 03 | MI 2 sep | [`03-presupuestos-alertas/`](03-presupuestos-alertas/) | Presupuestos, alertas, anomalías y forecasting | ✅ Disponible |
 | 04 | V 4 sep | [`04-optimizacion/`](04-optimizacion/) | Optimización: rightsizing, waste, Advisor y compromisos | ✅ Disponible |
-| 05 | MI 9 sep | `05-gobierno-cultura/` | Gobierno con Azure Policy, cultura FinOps y KPIs | ⏳ |
+| 05 | MI 9 sep | [`05-gobierno-cultura/`](05-gobierno-cultura/) | Gobierno con Azure Policy, cultura FinOps y KPIs | ✅ Disponible |
 
 El curso recorre el **FinOps Framework**: Informar (S1–S2) → Optimizar (S3–S4) →
 Operar (S5).
