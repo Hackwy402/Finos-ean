@@ -16,6 +16,9 @@ sin frenar el negocio. El playbook: **eliminar → ajustar → comprometer**.
 ```
 04-optimizacion/
 ├── guia-lab.md                 # laboratorio (participantes)
+├── taller-integrador.md        # taller capstone: aplica S1-S4 con las 3 herramientas
+├── plantilla-propuesta.md      # plantilla del entregable (propuesta de 1 pagina)
+├── datos/                      # inventario-recursos + costos (escenario del taller)
 ├── diapositivas/               # deck de teoría (PPTX + PDF, 15 láminas) + guía PDF
 └── chuleta-docente.md          # (no se publica) facilitación + respuestas
 ```
@@ -27,6 +30,18 @@ y Cost Analysis, simular un rightsizing en la calculadora (VM grande → correct
 calcular el ahorro de una reserva (on-demand vs 1/3 años). Como la cuenta de
 estudiante no permite comprar reservas reales, el análisis se hace con la calculadora
 — como se decide en la vida real.
+
+## Taller integrador (capstone)
+
+[`taller-integrador.md`](taller-integrador.md): «Del dato a la decisión — una
+propuesta de optimización FinOps». Integra **S1–S4** usando las tres herramientas
+(Calculadora de precios, el Excel de costos y el [FinOps Framework](https://www.finops.org/framework/)).
+En equipos, los participantes recorren **Informar → Cuantificar → Optimizar →
+Operar** sobre el escenario del área Pensiones (inventario en `datos/`, costo actual
+$2.590/mes, presupuesto $2.800) y entregan una **propuesta de optimización de 1 página**
+(plantilla [`plantilla-propuesta.md`](plantilla-propuesta.md)), mapeando cada acción a
+una capability del framework. Cierra el arco: los quick wins bajan el gasto a ~$1.235
+(−52%) y eliminan el riesgo de superar el presupuesto que se detectó en la S3.
 
 ## Multi-nube y herramientas
 

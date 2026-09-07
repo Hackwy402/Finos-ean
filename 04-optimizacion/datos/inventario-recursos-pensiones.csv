@@ -1,0 +1,9 @@
+recurso,tipo,tamano,uso,horas_mes,cpu_promedio,centro_de_costo,ambiente,costo_actual_usd_mes,observacion
+srv-app-01,Virtual Machine,D4s_v5 (4 vCPU / 16 GB),24/7,730,12%,pensiones,produccion,920,CPU muy baja: sobredimensionada
+srv-app-02,Virtual Machine,D4s_v5 (4 vCPU / 16 GB),24/7,730,15%,pensiones,produccion,920,CPU muy baja: sobredimensionada
+srv-pruebas-01,Virtual Machine,D2s_v5 (2 vCPU / 8 GB),24/7,730,25%,pensiones,pruebas,365,Solo se usa L-V 8-18; encendida noche y fines de semana
+disco-huerfano-01,Managed Disk,Premium SSD 128 GB,sin VM asociada,730,-,pensiones,,60,Disco huerfano (su VM fue borrada)
+disco-huerfano-02,Managed Disk,Premium SSD 128 GB,sin VM asociada,730,-,pensiones,,60,Disco huerfano (su VM fue borrada)
+disco-huerfano-03,Managed Disk,Premium SSD 128 GB,sin VM asociada,730,-,pensiones,,60,Disco huerfano (su VM fue borrada)
+st-datos-pensiones,Storage Account,Hot LRS 200 GB,en uso,730,-,pensiones,produccion,168,En uso: datos de tramites
+fn-notificaciones,Function App,Consumo,en uso,-,-,pensiones,produccion,37,Serverless: costo bajo y proporcional al uso
