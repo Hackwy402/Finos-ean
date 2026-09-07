@@ -16,7 +16,7 @@ que no ves* — hoy el objetivo es la **visibilidad**.
 ```
 01-fundamentos-finops/
 ├── guia-lab.md                 # laboratorio de la sesión (participantes)
-├── diapositivas/               # deck de teoría (PPTX + PDF, 14 láminas)
+├── diapositivas/               # deck de teoría (PPTX + PDF, 20 láminas) + guía PDF
 └── chuleta-docente.md          # (no se publica) facilitación + respuestas
 ```
 
